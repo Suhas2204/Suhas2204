@@ -8,7 +8,7 @@
 
 ---
 
-##About Me
+## About Me
 
 I'm an AI/ML engineer passionate about building **novel deep learning architectures** that push beyond the state of the art. Currently working on fusing **Mamba state-space models** with **Kolmogorov-Arnold Networks** for interpretable time-series anomaly detection.
 
